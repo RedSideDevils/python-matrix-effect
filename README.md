@@ -1,7 +1,7 @@
 # Python Matrix Effect
 
 
-![Alt text](https://github.com/RedSideDevils/python-matrix-effect/blob/main/img.gif) "banner")
+![Alt text](https://github.com/RedSideDevils/python-matrix-effect/blob/main/img.gif "banner")
 
 Just a simple and fancy effect from matrix movie made on Python3. 
 
